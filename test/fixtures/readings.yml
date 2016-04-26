@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 
+  main_slider_values: 1
+  s1: 1
+  s2: 1
+  s3: 1
+  s4: 1
+  s5: 1
+  s6: 1
+  s7: 1
+  s8: 1
+  s9: 1
+  s10: 1
+
+two:
+  user_id: 
+  main_slider_values: 1
+  s1: 1
+  s2: 1
+  s3: 1
+  s4: 1
+  s5: 1
+  s6: 1
+  s7: 1
+  s8: 1
+  s9: 1
+  s10: 1
