@@ -21,40 +21,39 @@ $(function() {
 		  	var sub_slider_values = []
 		    $("#create-pane").append("<h1>"+i+"</h1>");
 		    $("#create-pane").append("<div id='new-slider-"+i+"'></div>");
-		    $('#new-slider-'+i).slider({
-		    	range: true, 
-		    	if (i == "1") {
-		    		value: s1; 
-		    	}
-		    	else if (i == "2") {
-		    		value: s2;
-		    	}
-		    	else if (i == "3") {
-		    		value: s3;
-		    	}
-		    	else if (i == "4") {
-		    		value: s4;
-		    	}
-		    	else if (i == "5") {
-		    		value: s5;
-		    	}
-		    	else if (i == "6") {
-		    		value: s6;
-		    	}
-		    	else if (i == "7") {
-		    		value: s7;
-		    	}
-		    	else if (i == "8") {
-		    		value: s8;
-		    	}
-		    	else if (i == "9") {
-		    		value: s9;
-		    	}
-		    	else if (i == "10") {
-		    		value: s10;
-		    	}
-		    	else{
-		    	}
+		    $('#new-slider-'+i).slider({range: true, value: 1
+		    	// if (i == "1") {
+		    	// 	value: s1; 
+		    	// }
+		    	// else if (i == "2") {
+		    	// 	value: s2;
+		    	// }
+		    	// else if (i == "3") {
+		    	// 	value: s3;
+		    	// }
+		    	// else if (i == "4") {
+		    	// 	value: s4;
+		    	// }
+		    	// else if (i == "5") {
+		    	// 	value: s5;
+		    	// }
+		    	// else if (i == "6") {
+		    	// 	value: s6;
+		    	// }
+		    	// else if (i == "7") {
+		    	// 	value: s7;
+		    	// }
+		    	// else if (i == "8") {
+		    	// 	value: s8;
+		    	// }
+		    	// else if (i == "9") {
+		    	// 	value: s9;
+		    	// }
+		    	// else if (i == "10") {
+		    	// 	value: s10;
+		    	// }
+		    	// else{
+		    	// }
 		    	});
 		   }
 
